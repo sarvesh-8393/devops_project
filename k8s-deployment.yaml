@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: devops-container
-        image: sarvesh/devops-mini:latest
+        image:  sarvesh8393/devops-mini:latest
         ports:
         - containerPort: 80
 ---
